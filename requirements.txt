@@ -8,7 +8,6 @@ dnspython
 tgcrypto==1.2.2
 asyncio
 python-3.11.9
-python-dotenv
 lexica-api
 deep-translator
 pycgi
